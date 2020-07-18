@@ -4,6 +4,8 @@
 
 This is an interactive application to explore the Belly Button Biodiversity Dataset using Plotly.js and GitHub
 
+Link:  https://luisvegai.github.io/Belly-Button-Biodiversity/
+
  ![Plot 1](challenge12.png)
 
 ## Objectives
@@ -24,4 +26,3 @@ Use Plotly.js to build interactive plots for the page:
 ### Step 2 - Publishing the application
 
 The application was deplolyed in GitHub Pages, as it can serve as a free static page hosting service.
-
